@@ -313,6 +313,10 @@ a:active {
     width: 960px;
 }
 
+.navbar-menu{
+    float: right;
+}
+
 .nav {
     margin: 0;
     padding: 0;
