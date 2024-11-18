@@ -313,19 +313,15 @@ a:active {
     width: 960px;
 }
 
-.footer {
-    padding: var(--footer-padding);
-}
-
-.navbar-menu{
-    float: right;
-}
-
 .nav {
     margin: 0;
     padding: 0;
     list-style: none;
     text-align: center;
+}
+
+.navbar-menu{
+    float: right;
 }
 
 .nav .nav-item {
@@ -344,4 +340,8 @@ a:active {
 
 .nav .nav-link:hover {
     color: var(--nav-item-link-hover);
+}
+
+.footer {
+    padding: var(--footer-padding);
 }
