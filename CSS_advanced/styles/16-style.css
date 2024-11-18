@@ -181,6 +181,7 @@ template {
 
 /*# sourceMappingURL=normalize.min.css.map */
 
+/*After normalize*/
 :root {
     --color-primary: #d73953;
     --color-black: #090909;
@@ -280,6 +281,7 @@ a:active {
 }
 
 .container {
-    margin: 0 auto;
+    margin-right: auto;
+    margin-left: auto;
     width: 960px;
 }
