@@ -268,7 +268,7 @@ a:active {
 }
 
 .social-link {
-    display: block;
+    display: inline-block;
 }
 
 .social-link svg {
