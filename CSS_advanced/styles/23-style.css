@@ -268,7 +268,7 @@ a:active {
 }
 
 .social-link {
-    display: block;
+    display: inline-block;
 }
 
 .social-link svg {
@@ -398,5 +398,5 @@ ul.row {
 }
 
 .footer-address {
-    color: var(--color-black);
+    color: var(--text-color);
 }
