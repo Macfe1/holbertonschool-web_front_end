@@ -271,8 +271,8 @@ a:active {
     display: block;
 }
 
-.social-link svg {
-    color: var(--text-color);
+svg.social-link {
+    fill: var(--text-color);
 }
 
 .visually-hidden {
