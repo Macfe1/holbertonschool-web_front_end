@@ -344,8 +344,8 @@ a:active {
     color: var(--nav-item-link-hover);
 }
 
-ul .row {
-    margin: none;
+ul.row {
+    margin: 0;
     padding: none;
     list-style: none;
 }
