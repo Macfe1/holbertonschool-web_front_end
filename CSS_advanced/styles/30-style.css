@@ -523,7 +523,7 @@ ul.row {
     position: relative;
 }
 
-.card-work .card-title > a { /*Este epodría ser tricky*/
+.card-work .card-title a { /*Este epodría ser tricky*/
     display: block;
     text-decoration: none;
     padding-top: 45%;
