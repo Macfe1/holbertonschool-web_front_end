@@ -293,7 +293,7 @@ a:active {
 }
 
 [data-section-theme="dark"] {
-    --button-color: var(--color-white)
+    --button-color: var(--color-white);
 }
 
 .social-link {
